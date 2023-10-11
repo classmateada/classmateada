@@ -15,6 +15,7 @@ I’m:
 I’m interested in:
 
 - C/C++ development
+- Assembly language (ARM / RISC-V / AVR)
 - compliers
 - UNIX-like operating system design and development
 - Site Reliability Engineering (SRE)
