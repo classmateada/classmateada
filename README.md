@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi, I’m ClassmateAda. You can call me Ada.
+Hi, I’m Ada.
 
 I’m:
 
@@ -18,6 +18,7 @@ I’m interested in:
 - compliers
 - UNIX-like operating system design and development
 - Site Reliability Engineering (SRE)
+- operations tools
 
 I’ve worked as a / an:
 
