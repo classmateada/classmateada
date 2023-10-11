@@ -6,11 +6,11 @@ I’m:
 
 - an international student pursuing a Master of Information Technology
 - a developer who always choose the appropriate tool to build softwares
-- a UNIX-like operating system (mainly macOS and Arch Linux) user
 - an expert for troubleshooting
+- a UNIX-like operating system (mainly macOS and Arch Linux) user
 - a pragmatist
 - a minimalist
-- a part-time barista
+- an all-rounder
 
 I’m interested in:
 
