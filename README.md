@@ -6,7 +6,7 @@ I’m:
 
 - an international student pursuing a Master of Information Technology
 - a developer who always choose the appropriate tool to build softwares
-- an expert for troubleshooting
+- an expert of troubleshooting
 - a UNIX-like operating system (mainly macOS and Arch Linux) user
 - a pragmatist
 - a minimalist
