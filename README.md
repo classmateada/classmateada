@@ -25,7 +25,7 @@ I’ve worked as a / an:
 - Game Reliability Engineer (GRE) in Garena for 8 months
 - Outsourcing dispatched Software Engineer in the OpenHarmony Dept. of Huawei for 5 months
 
-What's more, I'm currently working on my own open-source project `C (Chatswood)` and looking for an opportunity of a contract / part-time Back-end developer.
+What's more, I'm currently working on my own open-source project `Chatswood (C)` and `Parramatta (P)` and looking for an opportunity as a contract / part-time back-end developer or operating system developer.
 
 <!---
 classmateada/classmateada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
