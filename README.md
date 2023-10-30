@@ -16,6 +16,8 @@ I’m interested in:
 
 - Assembly language (ARM / RISC-V / AVR)
 - compliers
+- RTOS
+- Microkernel
 - UNIX-like operating system design and development
 - Site Reliability Engineering (SRE)
 - operations tools
